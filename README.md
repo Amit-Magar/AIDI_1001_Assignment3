@@ -6,7 +6,7 @@ This project involves a Flask-based webhook created to work seamlessly with Dial
 
 Includes two routes:
 
-<li>/ Route: Returns the student number in a properly formatted JSON response.</li>
+<li>/  Returns the student number in a properly formatted JSON response.</li>
 <li>/webhook Route: Handles Dialogflow webhook requests and returns stock price data or other intent-specific responses.</li>
 
 The application is deployed on Render for public access and API fulfillment.
