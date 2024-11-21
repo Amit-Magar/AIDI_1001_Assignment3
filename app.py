@@ -4,7 +4,7 @@ import requests
 app = Flask(__name__)
 
 # My Alpha Vantage API key
-ALPHA_VANTAGE_API_KEY = "2ICKDAYTDCXCZ7GW"
+ALPHA_VANTAGE_API_KEY = "6444RI39T9ZJ5YVE"
 
 # Route 1: Root route to return student number
 @app.route("/", methods=["GET"])
