@@ -3,7 +3,7 @@ import requests
 
 app = Flask(__name__)
 
-# Replace with your Alpha Vantage API key
+# My Alpha Vantage API key
 ALPHA_VANTAGE_API_KEY = "2ICKDAYTDCXCZ7GW"
 
 # Route 1: Root route to return student number
